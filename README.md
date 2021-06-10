@@ -1,5 +1,5 @@
 ## Zee5 Downloader
-If you find any bugs, report at @TroJanzSupport
+If you find any bugs, report at @disneyteamchat
 
 **My Features**:
 
@@ -12,7 +12,7 @@ If you find any bugs, report at @TroJanzSupport
 
 #### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/TroJanzHEX/Zee5-Downloader)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/disneyteam76/Zee5-Downloader)
 
 #### Run in your VPS
 
@@ -52,6 +52,6 @@ python3 bot.py
 
 ## Credits, and Thanks to Beloved Developers ;
 
-* [SpEcHlDe](https://telegram.dog/SpEcHlDe) 
-* [Dan Tès](https://telegram.dog/haskell)
-* [Dedshit](https://github.com/dedshit)
+* [Doreamonfans1](https://telegram.dog/doreamonfans1) 
+* [Doreamonfans2](https://telegram.dog/doreamonfans2)
+* [Doreamonfans3](https://github.com/doreamonfans4)
