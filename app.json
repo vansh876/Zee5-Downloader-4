@@ -1,5 +1,5 @@
 {
-  "name": "Zee5 DL",
+  "name": "Disney Team Zee5 DL",
   "description": "Zee5 Downloader",
   "keywords": [
     "telegram",
@@ -7,7 +7,7 @@
     "downloader"
   ],
 
-  "repository": "https://github.com/TroJanzHEX/Zee5-Downloader",
+  "repository": "https://github.com/disneyteam76/Zee5-Downloader",
   
   "env": {
     "WEBHOOK": {
@@ -28,7 +28,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "680815375"
+      "value": "1451841932"
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
