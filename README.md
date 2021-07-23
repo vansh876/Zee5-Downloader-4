@@ -12,7 +12,7 @@ If you find any bugs, report at @disneyteamchat
 
 #### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/disneyteam76/Zee5-Downloader)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/disneyteam77/Zee5-Downloader)
 
 #### Run in your VPS
 
